@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.a6thp1">
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.6thP1"
+        tools:targetApi="31">
+        <activity
+            android:name=".Job_scheduler"
+            android:exported="true" >
+            <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".alarm2"
+            android:exported="true" />
+        <activity
+            android:name=".timepicker"
+            android:exported="false"/>
+
+        <activity
+            android:name=".toolbar"
+            android:exported="true" />
+        <activity
+            android:name=".customToast_main"
+            android:exported="true" />
+        <activity
+            android:name=".Image_display"
+            android:exported="true" />
+        <activity
+            android:name=".ScrollHorizontal"
+            android:exported="false" />
+        <activity
+            android:name=".Progressbar"
+            android:exported="true" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true" />
+        <activity
+            android:name=".MainSplash"
+            android:exported="true" /> <!-- <activity -->
+        <!-- android:name=".custombox" -->
+        <!-- android:exported="false" /> -->
+        <!-- <activity -->
+        <!-- android:name=".ratings_custombox" -->
+        <!-- android:exported="false" /> -->
+        <activity
+            android:name=".scrollview"
+            android:exported="true" />
+        <activity
+            android:name=".ratings2"
+            android:exported="true" />
+        <activity
+            android:name=".ratings"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+
+        <receiver android:name=".MyAlarm" />
+        <receiver android:name=".MyBroadcastDemo"/>
+        <receiver android:name=".AlarmManagerBroadcast"/>
+        <service android:name=".MyJobService"
+            android:exported="true"
+            android:permission="android.permission.BIND_JOB_SERVICE"/>
+    </application>
+
+</manifest>

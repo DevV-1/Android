@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.235" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_alarm2.xml" value="0.2859375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_custom_toast_main.xml" value="0.2859375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_custombox.xml" value="0.26875" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_image_display.xml" value="0.2859375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_job_scheduler.xml" value="0.2859375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_main.xml" value="0.2828125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_main_splash.xml" value="0.2859375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_progressbar.xml" value="0.2859375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_ratings.xml" value="0.23278985507246377" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_ratings2.xml" value="0.23278985507246377" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_ratings_custombox.xml" value="0.2828125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_scroll_horizontal.xml" value="0.2859375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_scrollview.xml" value="0.2828125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_splash_screen.xml" value="0.2859375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_timepicker.xml" value="0.2859375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/activity_toolbar.xml" value="0.2859375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/custombox.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/layout/customtoast_list.xml" value="0.2859375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/6thp1/app/src/main/res/menu/menu_toolbar.xml" value="0.23461538461538461" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

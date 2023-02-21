@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:fillViewport="false"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".scrollview"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:text="ScrollView"
+        android:layout_marginTop="80dp"
+        android:id="@+id/loginscrn"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:id="@+id/fstTxt"/>
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:text="Button One"
+        android:layout_marginTop="60dp"/>
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:text="Button Two"
+        android:layout_marginTop="60dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:text="Button Three" />
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:text="Button Four"
+        android:layout_marginTop="60dp"/>
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" android:layout_gravity="center" android:text="Button Five" android:layout_marginTop="60dp"/>
+
+    <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_gravity="center" android:text="Button Six" android:layout_marginTop="60dp"/>
+
+    <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_gravity="center" android:text="Button Seven" android:layout_marginTop="60dp"/>
+
+    <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_gravity="center" android:text="Button Eight" android:layout_marginTop="60dp"/>
+
+    <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_gravity="center" android:text="Button Nine" android:layout_marginTop="60dp"/>
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/action_home"
+    app:showAsAction="never"
+    android:icon="@drawable/ic_baseline_home_24"
+    android:title="Home"
+    />
+    <item android:id="@+id/action_message"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_baseline_message_24"
+        android:title="Message"
+        />
+
+    <item android:id="@+id/action_email"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_baseline_email_24"
+        android:title="Email"
+        />
+    <item android:id="@+id/action_settings"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings"
+        />
+
+</menu>
